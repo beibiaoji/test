@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 870774183
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: material/eye
+      Dependencies: {}
+    Info_1:
+      Name: material/plane
+      Dependencies: {}
+    Info_2:
+      Name: prefab/player/capsule
+      Dependencies:
+        Dependency_0: material/eye
